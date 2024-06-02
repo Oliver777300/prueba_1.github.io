@@ -1,0 +1,12 @@
+:root{
+	--color: skyblue;
+}
+body
+{
+	background-color: var(--color);
+	margin: 40px;
+}
+h1{
+	background-color: black;
+	color: var(--color)
+}
